@@ -7,6 +7,7 @@
 ## NOTE:
 
 - Make sure you have started a VoiceChat in your Group/Channel before deploying.
+- Make Sure That Bot and Userbot Must Be Admins of Group/Channel Before Playing.
 
 ---
 

@@ -1,4 +1,4 @@
-# Telegram VCVideoPlayBot
+# Sura VC Play Bot
 
 - An Telegram Bot By [@SuraReddyTheProgrammer](https://t.me/SuraReddyTheProgrammer) To Stream Videos in Telegram Voice Chat.
 
